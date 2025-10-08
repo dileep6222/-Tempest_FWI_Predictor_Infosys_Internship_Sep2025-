@@ -1,4 +1,0 @@
-Trained only Independent faetures - followed Normal distibution
-Added interaction Params to intro non linearity 
-Result - Bias and Variance
-check residual plots
