@@ -1,3 +1,0 @@
-Trained only Independent faetures - followed Normal distibution
-Result - Bias
-check residual plots
